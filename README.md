@@ -1,15 +1,7 @@
-# Task 3: Computer Vision Object Detector and Frame-by-Frame Segmenter Pipeline
+# Computer Vision Object Detector and Frame-by-Frame Segmenter Pipeline
 
 A real-time pipeline that extracts, classifies, tracks and counts target shapes in video, with per-frame inference metrics. Two pipelines are included: a **classical OpenCV pipeline** and a **YOLOv8n-seg** pipeline.
 
-## Files
-
-| File | Purpose |
-|---|---|
-| `cv_pipeline_task4.ipynb` | The Colab notebook (both pipelines, evaluation, export) |
-| `Technical_Report_Task1_Task2_Task3.docx` | Full report, Task 3 is section 3 |
-
-The notebook file name and title use the earlier numbering ("Task 4"); in the report it is Task 3.
 
 ## Requirements
 
